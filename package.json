@@ -2,6 +2,15 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql2": "^3.10.2"
-  }
+    "mysql2": "^3.10.3"
+  },
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Module 12 Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
